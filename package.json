@@ -1,0 +1,27 @@
+{
+  "name": "rony_levi_potfolio",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LeviRony/rony_levi_potfolio#readme",
+  "bugs": {
+    "url": "https://github.com/LeviRony/rony_levi_potfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LeviRony/rony_levi_potfolio.git"
+  },
+  "license": "ISC",
+  "author": "Rony Levi",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "params": "^0.1.1",
+    "pg": "^8.14.1"
+  }
+}
