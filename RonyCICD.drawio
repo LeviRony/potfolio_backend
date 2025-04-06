@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_c-rlhoLFNbtytBOngH1-48" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="160" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="_c-rlhoLFNbtytBOngH1-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.mongodb;" vertex="1" parent="1">
-          <mxGeometry x="210" y="165" width="130" height="130" as="geometry" />
+          <mxGeometry x="335" y="165" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_c-rlhoLFNbtytBOngH1-4" value="PostgreSQL" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="680" y="146.7" width="200" height="200" as="geometry" />
+          <mxGeometry x="679" y="130" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_c-rlhoLFNbtytBOngH1-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;shadow=0;dashed=0;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#FF6A00;" vertex="1" parent="_c-rlhoLFNbtytBOngH1-4">
           <mxGeometry x="54.079999999999984" y="42.55000000000001" width="91.84" height="122.45" as="geometry" />
@@ -17,7 +20,7 @@
           <mxGeometry y="170" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_c-rlhoLFNbtytBOngH1-5" value="MongoDB" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="175" y="130" width="200" height="200" as="geometry" />
+          <mxGeometry x="300" y="130" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_c-rlhoLFNbtytBOngH1-9" value="&amp;lt;/&amp;gt;" style="rounded=1;arcSize=5;fillColor=#0065FF;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontStyle=1;html=1;sketch=0;" vertex="1" parent="_c-rlhoLFNbtytBOngH1-5">
           <mxGeometry y="170" width="200" height="30" as="geometry" />
@@ -31,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_c-rlhoLFNbtytBOngH1-17" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.linkedin;fillColor=#0095DB;gradientColor=#006391" vertex="1" parent="1">
-          <mxGeometry x="-10" y="178.8" width="102.4" height="102.4" as="geometry" />
+          <mxGeometry x="-10" y="165" width="102.4" height="102.4" as="geometry" />
         </mxCell>
         <mxCell id="_c-rlhoLFNbtytBOngH1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="_c-rlhoLFNbtytBOngH1-41" target="_c-rlhoLFNbtytBOngH1-10">
           <mxGeometry relative="1" as="geometry">
@@ -104,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_c-rlhoLFNbtytBOngH1-41" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.addon;" vertex="1" parent="1">
-          <mxGeometry x="70" y="370" width="78" height="40" as="geometry" />
+          <mxGeometry x="71" y="370" width="78" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
